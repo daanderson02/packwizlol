@@ -1,0 +1,12 @@
+name = "gods frozen people"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2ecda9dadfee06ca986a11fa6f47677c53c91be6974af0612dc3ce0cd71718dc"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
